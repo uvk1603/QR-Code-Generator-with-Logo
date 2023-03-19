@@ -1,6 +1,7 @@
 import qrcode
 from PIL import Image
 
+# Considering a sample logo
 link = 'python.png'
 logo = Image.open(link) 
 
